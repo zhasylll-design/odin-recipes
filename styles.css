@@ -1,0 +1,97 @@
+body{
+    margin: 0 auto;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    background-color: #bcbcbc;
+}
+
+/* Index Page Styles */
+
+.recipe-list{
+    background-color: #dddddd;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.cooking_logo{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+}
+
+#recipe-list{
+    margin: 15px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+h1#recipes{
+    text-align: center;
+    font-size: 50px;
+    margin-top: -40px;
+}
+
+h1#list{
+    font-size: 30px;
+    text-align: center;
+    background-color: #ffffff;
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+}
+
+/* Food Pages Style */
+
+h1.food_name{
+    text-align: center;
+    font-size: 30px;
+    margin-top: -20px;
+}
+
+.food_image{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: auto;
+}
+
+.description,
+p{
+    text-align: center;
+}
+
+p.lower{
+    margin-top: -10px;
+}
+
+div.ingredients{
+    width: 700px;
+    margin: 0 auto;
+    background-color: #dddddd;
+    padding: 10px;
+}
+
+#ingredients_header,
+#guide_header{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -3px;
+    margin-bottom: -5px;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+}
+
+.guide{
+    width: 700px;
+    margin: 0 auto;
+    background-color: #dddddd;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#homeLink{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
